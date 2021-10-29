@@ -222,7 +222,7 @@
             <h3>Social Media</h3>
             <div class="grid grid-cols-3 gap-2 pr-12">
             
-                <a href="/transpo.berkeley.edu/discord" target="_blank" rel="noopener">
+                <a href="https://transpo.berkeley.edu/discord" target="_blank" rel="noopener">
                     <img src="/uploads/2021/09/21/discord-logo-white.png" class="w-full object-fit" alt="Our Discord server!" title="Our Discord server!" />
                 </a>
             
