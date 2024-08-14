@@ -79,7 +79,7 @@ Connect with us on LinkedIn:
 
 Join our Discord:
 
-[Join Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge}
+[Join Discord >](/discord/){:.pure-button .button-success .button-xlarge}
 
 Follow us on Instagram:
 
