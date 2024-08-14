@@ -1,6 +1,7 @@
 title: Institute of Transportation Engineers @ UC Berkeley
 short_title: ITE at Berkeley
 description: We are the student chapter of the Institute of Transportation Engineers at the University of California, Berkeley. We provide opportunities for interested students to connect with transportation professionals in both public and private sectors.
+url: "ite.studentorg.berkeley.edu"
 baseurl: ""
 permalink: "/:path/"
 defaults:
