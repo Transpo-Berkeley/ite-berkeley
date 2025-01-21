@@ -18,14 +18,15 @@ menu:
     weight: 3
 
 ---
-# Current Members
+# Current Officers
 
 |Name|Position|
 |:---|:---|
 |**Cal Holman**|President|
-|**Liana Tran**|External VP|
+|**Liana Tran**|President|
+|**Robert Rudy**|Project Manager|
 |**Jon Davis**|Internal VP|
-|**Rob Rudy**|
+|**Sricharan Samuldrala**|External VP|
 |**Etaash Patel**|
 |**Gene Naono**|
 |**Will Pham**|
@@ -57,11 +58,10 @@ menu:
 |**Henry Hammel**|2017-2018|
 |**Marissa Milam**|2018-2019|
 |**Amy Huang**|2019-2020|
-|**insert here**|2020-2021|
-|**Michael Leong**|2021-2022|
-|**Garett Davis**|2022-2023|
+|**Michael Leong**|2020-2021|
+|**Garett Davis**|2021-2023|
 |**Junzhe Cao**|2023-2024|
-|**Cal Holman**|2024-2025|
+|**Cal Holman & Liana Tran**|2024-2025|
 {:.w-full .table-auto .mt-4 #presidents}
 
 
