@@ -27,10 +27,7 @@ menu:
 |**Rob Rudy**|Project Manager|
 |**Jon Davis**|Internal VP|
 |**Sricharan Samudrala**|External VP|
-
 {:.w-full .table-auto .mt-4 #members}
-
-[See full roster >](https://callink.berkeley.edu/organization/ite){: .pure-button .button-xlarge}
 
 <br>
 
