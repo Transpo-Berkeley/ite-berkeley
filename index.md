@@ -2,6 +2,8 @@
 title: Home
 banner_image: ''
 img-carousel:
+- "/uploads/2022/IMG_1299.heic"
+- "/uploads/2022/IMG_7847.jpeg"
 - "/uploads/2022/08/21/fehr-and-peers-office-visit.jpg"
 - "/uploads/2022/08/21/img_4445.jpg"
 - "/uploads/2022/08/21/kimley-horn-visit.jpg"
