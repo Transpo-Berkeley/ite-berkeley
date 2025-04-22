@@ -2,6 +2,7 @@
 title: Home
 banner_image: ''
 img-carousel:
+- "/uploads/2025/sp24_banquet.jpg"
 - "/uploads/2022/IMG_7847.jpeg"
 - "/uploads/2022/08/21/fehr-and-peers-office-visit.jpg"
 - "/uploads/2022/08/21/img_4445.jpg"
