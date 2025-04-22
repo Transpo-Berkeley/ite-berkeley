@@ -8,7 +8,7 @@ img-carousel:
 - "/uploads/2022/08/21/2024_alum_panel.jpg"
 - "/uploads/2022/08/21/img_4445.jpg"
 - "/uploads/2022/08/21/kimley-horn-visit.jpg"
-- "/uploads/2022/07/02/sp24_banquet.jpg"
+- "/uploads/2022/08/21/sp24_banquet.jpg"
 img-gallery:
   columns: "4"
   images:
