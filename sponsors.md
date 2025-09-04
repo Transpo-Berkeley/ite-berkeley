@@ -7,7 +7,7 @@ publish_date: 2021-08-31 00:00:00 +0000
 
 # Sponsor Cal ITE
 
-We're always looking for sponsorship opportunities! If you would like to connect your company/organization with our students, check out our sponsorship tiers below: (Test)
+We're always looking for sponsorship opportunities! If you would like to connect your company/organization with our students, check out our sponsorship tiers below:
 
 [Contact Us](/contact){: .pure-button .button-success .button-xlarge}
 
