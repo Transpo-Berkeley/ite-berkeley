@@ -15,18 +15,16 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 <br>
 
-<object
-  data="/uploads/2025-2026 Cal ITE & AREMA Sponsorship Packet (1).pdf"
-  type="application/pdf"
-  width="100%"
-  class="mb-4"
-  style="height:130vw;max-height:1024px;">
-<canvas id="pdfviewer" markdown="1" style="width:100%;height:130vw;max-height:1024px;">
-
-Your browser doesn't support pdf's. Scroll down for download links.
-
-</canvas>
-</object>
+<h1>My Embedded PDF</h1>
+<p>This is an example of a PDF document embedded from Google Drive.</p>
+    
+<div class="pdf-container">
+<iframe 
+      src="[https://drive.google.com/file/d/3/preview](https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing)"
+      style="width:100%; height:600px; border:0;"
+      allowfullscreen>
+</iframe>
+</div>
 
 Download Flyer{: .pure-button .button-success .button-xlarge}
 
