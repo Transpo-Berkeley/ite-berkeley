@@ -17,7 +17,7 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 <div class="pdf-container">
 <iframe 
-      src="[https://drive.google.com/file/d/3/preview](https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing)"
+      src="(https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing)"
       style="width:100%; height:600px; border:0;"
       allowfullscreen>
 </iframe>
