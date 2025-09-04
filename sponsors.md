@@ -13,15 +13,11 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 <br>
 
-<br>
-
-<div class="pdf-container">
-<iframe 
-      src="https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing"
-      style="width:100%; height:600px; border:0;"
-      allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing" style="width:100%;height:1200px;border:0;">
+<a href="https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing">Open Contact Form</a>
 </iframe>
-</div>
+
+<br>
 
 Download Flyer{: .pure-button .button-success .button-xlarge}
 
