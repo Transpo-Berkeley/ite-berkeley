@@ -13,18 +13,30 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 <br>
 
+<br>
+
 <object
-  data="{{ site.data.sponsors.sponsortiers }}#toolbar=0"
-  type="application/pdf"
-  width="100%"
-  class="mb-4"
-  style="height:130vw;max-height:1024px;">
+  data="/uploads/2025-2026 Cal ITE & AREMA Sponsorship Packet (1).pdf"
+  type="application/pdf"
+  width="100%"
+  class="mb-4"
+  style="height:130vw;max-height:1024px;">
 <canvas id="pdfviewer" markdown="1" style="width:100%;height:130vw;max-height:1024px;">
 
 Your browser doesn't support pdf's. Scroll down for download links.
 
 </canvas>
 </object>
+
+Download Flyer{: .pure-button .button-success .button-xlarge}
+
+<br>
+
+{% include sponsors.html %}
+
+<br>
+
+
 
 [Download Flyer]({{ site.data.sponsors.sponsortiers }}){: .pure-button .button-success .button-xlarge}
 
