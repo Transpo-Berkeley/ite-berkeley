@@ -48,7 +48,7 @@ services:
   icon: "/uploads/2021/08/09/operations-icon-flat-style-white-isolated-symbol-black-your-web-site-design-app-ui-simple-process-vector-illustration-156422564.jpg"
 hero_button:
   text: Interest Form >
-  href: https://docs.google.com/forms/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform?usp=header
+  href: https://docs.google.com/forms/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform
 show_news: false
 show_staff: false
 
@@ -67,7 +67,7 @@ show_staff: false
 
 ### Fill out our interest form below!
 
-[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform?usp=header){:.pure-button .button-success .button-xlarge}
+[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform){:.pure-button .button-success .button-xlarge}
 
 <br>
 
@@ -79,7 +79,7 @@ Connect with us on LinkedIn:
 
 Join our Discord:
 
-[Join Discord >](https://discord.com/channels/838296959835963404/1391878190259245056/1412943517235417170){:.pure-button .button-success .button-xlarge}
+[Join Discord >](https://discord.gg/jyzrp7Ha44){:.pure-button .button-success .button-xlarge}
 
 Follow us on Instagram:
 
