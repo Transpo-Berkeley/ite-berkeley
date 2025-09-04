@@ -13,8 +13,8 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 <br>
 
-<iframe src="uploads/2025-2026 Cal ITE & AREMA Sponsorship Packet (1).pdf" style="width:100%;height:1200px;border:0;">
-    <a href="uploads/2025-2026 Cal ITE & AREMA Sponsorship Packet (1).pdf">Download Sponsorship Packet</a>
+<iframe src="uploads/2025-Sponsorship-Packet.pdf" style="width:100%;height:1200px;border:0;">
+    <a href="uploads/2025-Sponsorship-Packet.pdf">Download Sponsorship Packet</a>
 </iframe>
 
 <br>
