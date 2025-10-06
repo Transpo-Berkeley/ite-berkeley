@@ -42,14 +42,14 @@ sponsors:
   - name: VST Engineering
     image: /uploads/2022/08/21/ite-vst.png
     url: https://www.vst.engineering/
-- title: AC Transit Level
+- title: Bronze Level
   card: p-6 sm:p-6 md:p-8 bg-green-100 rounded-lg
   classes: grid-cols-5 md:grid-cols-6 gap:10 md:gap-12 items-center justify-center
   sponsorlist:
   - name: W-Trans
     image: /uploads/2022/08/21/ite-wtrans.png
     url: https://www.w-trans.com/
-    - name: TYLin
+  - name: TYLin
     image: /uploads/2022/08/21/ite-tylin.png
     url: https://www.tylin.com/
     dark: true
