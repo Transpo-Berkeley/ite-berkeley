@@ -18,14 +18,4 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 <br>
 
-
-
-[Download Flyer]({{ site.data.sponsors.sponsortiers }}){: .pure-button .button-success .button-xlarge}
-
-<br>
-
-{% include sponsors.html %}
-
-<br>
-
 **[Contact us if you have any questions!](/contact/)**
