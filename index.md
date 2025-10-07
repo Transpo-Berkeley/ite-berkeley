@@ -19,14 +19,10 @@ img-gallery:
   - "/uploads/2022/07/02/ite-sfmta1.jpg"
   - "/uploads/2022/07/02/ite-sfmta2.jpg"
   - "/uploads/2022/07/02/ite-sfmta3.jpg"
-  - "/uploads/2022/07/02/ite-commmunitysvcworkshop.HEIC"
-  - "/uploads/2022/07/02/ite-gingerbread.jpg"
+  - "/uploads/2022/07/02/ite-arema.jpg"
   - "/uploads/2022/07/02/ite-communityoutreach.jpg"
+  - "/uploads/2022/07/02/ite-commmunitysvcworkshop.jpg"
   - "/uploads/2022/07/02/ite_interview_workshop-2.jpg"
-  - "/uploads/2022/07/02/ite_interview_workshop-3-1.jpg"
-  - "/uploads/2022/07/02/img_2782.jpg"
-  - "/uploads/2022/07/02/img_1932.jpg"
-  - "/uploads/2022/07/02/290132909_10228118199837824_4704420007636831696_n.jpg"
   - "/uploads/2021/09/21/clear_lake-18-1.jpg"
 layout: landing-page
 heading: CAL ITE
