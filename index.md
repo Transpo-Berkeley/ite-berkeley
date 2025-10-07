@@ -12,6 +12,16 @@ img-carousel:
 img-gallery:
   columns: "4"
   images:
+  - "/uploads/2022/07/02/itc-sls2025.jpg"
+  - "/uploads/2022/07/02/ite-midpac.jpg"
+  - "/uploads/2022/07/02/ite-midpac2.jpg"
+  - "/uploads/2022/07/02/ite-itc2.jpg"
+  - "/uploads/2022/07/02/ite-sfmta1.jpg"
+  - "/uploads/2022/07/02/ite-sfmta2.jpg"
+  - "/uploads/2022/07/02/ite-sfmta3.jpg"
+  - "/uploads/2022/07/02/ite-commmunitysvcworkshop.HEIC"
+  - "/uploads/2022/07/02/ite-gingerbread.jpg"
+  - "/uploads/2022/07/02/ite-communityoutreach.jpg"
   - "/uploads/2022/07/02/ite_interview_workshop-2.jpg"
   - "/uploads/2022/07/02/ite_interview_workshop-3-1.jpg"
   - "/uploads/2022/07/02/img_2782.jpg"
