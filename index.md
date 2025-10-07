@@ -12,16 +12,16 @@ img-carousel:
 img-gallery:
   columns: "4"
   images:
-  - "/uploads/2022/07/02/itc-sls2025.jpg"
+  - "/uploads/2022/07/02/ite-sls2025.jpg"
   - "/uploads/2022/07/02/ite-midpac.jpg"
   - "/uploads/2022/07/02/ite-midpac2.jpg"
   - "/uploads/2022/07/02/ite-itc2.jpg"
-  - "/uploads/2022/07/02/ite-sfmta1.jpg"
-  - "/uploads/2022/07/02/ite-sfmta2.jpg"
+  - "/uploads/2022/07/02/ite-sfmta.jpg"
+  - "/uploads/2022/07/02/ite-commmunitysvcworkshop.jpg"
   - "/uploads/2022/07/02/ite-sfmta3.jpg"
   - "/uploads/2022/07/02/ite-arema.jpg"
   - "/uploads/2022/07/02/ite-communityoutreach.jpg"
-  - "/uploads/2022/07/02/ite-commmunitysvcworkshop.jpg"
+  - "/uploads/2022/07/02/img_2782.jpg"
   - "/uploads/2022/07/02/ite_interview_workshop-2.jpg"
   - "/uploads/2021/09/21/clear_lake-18-1.jpg"
 layout: landing-page
