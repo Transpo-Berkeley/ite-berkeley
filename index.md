@@ -17,11 +17,11 @@ img-gallery:
   - "/uploads/2022/07/02/ite-midpac2.jpg"
   - "/uploads/2022/07/02/ite-itc2.jpg"
   - "/uploads/2022/07/02/ite-sfmta.jpg"
-  - "/uploads/2022/07/02/ite-commmunitysvcworkshop.jpg"
+  - "/uploads/2022/07/02/ite-communitysvcworkshop.jpg"
   - "/uploads/2022/07/02/ite-sfmta3.jpg"
   - "/uploads/2022/07/02/ite-arema.jpg"
   - "/uploads/2022/07/02/ite-communityoutreach.jpg"
-  - "/uploads/2022/07/02/img_2782.jpg"
+  - "/uploads/2022/07/02/img_1932.jpg"
   - "/uploads/2022/07/02/ite_interview_workshop-2.jpg"
   - "/uploads/2021/09/21/clear_lake-18-1.jpg"
 layout: landing-page
